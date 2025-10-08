@@ -22,7 +22,7 @@
   ⚙️ Currently working on mastering TypeScript and advanced React patterns  
   🌱 Learning more about web animations and server components in Next.js  
   💬 Ask me anything <a href="https://github.com/eslamabdelazeem/eslamabdelazeem/issues" title="Issues">here</a>  
-  📫 Reach me at: <a href="mailto:eslamabdelazeem.dev@gmail.com">eslamabdelazeem.dev@gmail.com</a>
+  📫 Reach me at: <a href="mailto:eslamabdelazeem87@gmail.com">eslamabdelazeem.dev@gmail.com</a>
 </p>
 
 <hr>
