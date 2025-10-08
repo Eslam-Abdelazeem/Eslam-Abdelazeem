@@ -1,39 +1,133 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=eslamabdelazeem.eslamabdelazeem">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Eslam+Abdelazeem....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+There!+👋;I'm+Eslam+Abdelazeem!;Front-End+Developer;Welcome+to+my+GitHub!&center=true&size=30">
   </a>
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
-  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://www.linkedin.com/in/eslamabdelazeem" title="LinkedIn Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> LinkedIn</a></code>
+  <code><a href="https://www.instagram.com/eslam.abdelazeem" title="Instagram Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg"> Instagram</a></code>
+  <code><a href="https://github.com/eslamabdelazeem" title="GitHub Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> GitHub</a></code>
 </h5>
+
 <br>
+
 <p align="center">
-  Hi, I'm Osman DURDAĞ, Research Assistant & Computer Engineer & Software Developer from Turkey
-  <br>
-  <br>
-  🔬 I'm currently studying for my doctorate at Atatürk University, Department of Computer Engineering
-  <br>
-  🎓 I graduated from Atatürk University, Department of Computer Engineering (Master)
-  <br>
-  🎓 I graduated from Black Sea Technical University, Department of Computer Engineering (Undergraduate)
-  <br>
-  🎓 I graduated from Erzurum İbrahim Hakkı Science High School
-  <br>
-  💻 I love writing code and learn anythings about it
-  <br>
-  📚 I’m currently learning how to build E-Commerce Website with Django
-  <br>
-  💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
-  <br>
-  📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
+  Hi, I'm <b>Eslam Abdelazeem</b> — a passionate <b>Front-End Developer</b> from Egypt 🇪🇬  
+  <br><br>
+  💻 I specialize in building modern, responsive web interfaces using React & Next.js  
+  🎨 I focus on clean UI/UX, performance, and maintainable code  
+  ⚙️ Currently working on mastering TypeScript and advanced React patterns  
+  🌱 Learning more about web animations and server components in Next.js  
+  💬 Ask me anything <a href="https://github.com/eslamabdelazeem/eslamabdelazeem/issues" title="Issues">here</a>  
+  📫 Reach me at: <a href="mailto:eslamabdelazeem.dev@gmail.com">eslamabdelazeem.dev@gmail.com</a>
 </p>
 
+<hr>
+
+<h2 align="center">🔥 Languages, Frameworks & Tools 🔥</h2>
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,git,github,vscode&theme=dark" />
+</p>
+
+<hr>
+
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
+<br>
+
+<p align="center">
+  <a href="https://github.com/eslamabdelazeem">
+    <img width="390" src="https://streak-stats.demolab.com?user=eslamabdelazeem&theme=react&border=61dafb&hide_border=true" alt="GitHub Streak Stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img width="390" src="https://github-readme-stats.vercel.app/api?username=eslamabdelazeem&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="GitHub Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslamabdelazeem&layout=compact&theme=react&title_color=61dafb&text_color=ffffff&bg_color=20232a&border_color=61dafb&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eslamabdelazeem&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="Activity Graph"/>
+</p>
+
+<hr>
+
+<h2 align="center">👨‍💻 Featured Projects 👨‍💻</h2>
+<br>
+
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/eslamabdelazeem/portfolio" title="Portfolio Website">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=eslamabdelazeem&repo=portfolio&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+  <a align="right" href="https://github.com/eslamabdelazeem/next-ecommerce" title="Next.js E-commerce">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=eslamabdelazeem&repo=next-ecommerce&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+</div>
+
+<br/><br/><br/><br/><br/><br/>
+
+<h4 align="center">
+  <a href="https://github.com/eslamabdelazeem?tab=repositories" title="Show More Repositories">🔎 Show More 🔍</a>
+</h4>
+
+<!--
+**eslamabdelazeem/eslamabdelazeem** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Make sure to ⭐ this repo if you like the design!  
+-->  <code><img title="Git" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
+  <code><img title="GitHub" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></code>
+  <code><img title="VS Code" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
+</p>
+
+<hr>
+
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
+<br>
+<p align="center">
+  <div align="center">
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+      <img width="390" src="https://streak-stats.demolab.com?user=eslamabdelazeem&theme=react&border=61dafb&hide_border=true" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width="390" src="https://github-readme-stats.vercel.app/api?username=eslamabdelazeem&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+
+  <br><br>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslamabdelazeem&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&layout=compact&border_color=61dafb&hide_border=true" />
+  </a>
+
+  <br><br>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eslamabdelazeem&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
+
+<hr>
+
+<h2 align="center">👨‍💻 Featured Projects 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/eslamabdelazeem/portfolio" title="Portfolio Website"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=eslamabdelazeem&repo=portfolio&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/eslamabdelazeem/next-ecommerce" title="Next.js E-commerce"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=eslamabdelazeem&repo=next-ecommerce&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+
+<br/><br/><br/><br/><br/><br/>
+
+<h4 align="center">
+  <a href="https://github.com/eslamabdelazeem?tab=repositories" title="Show More Repositories">🔎 Show More 🔍</a>
+</h4>
+
+<!--
+**eslamabdelazeem/eslamabdelazeem** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Make sure to ⭐ this repo if you like the design!  
+-->
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
